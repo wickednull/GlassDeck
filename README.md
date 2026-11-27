@@ -5,13 +5,13 @@
   <p>A small, local-only AppImage launcher for Linux with an interface that feels a bit like iOS.</p>
 
   <p>
-    <img src="https://img.shields.io/badge/platform-Linux-0a84ff?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Platform: Linux" />
-    <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-30d158?style=flat-square" alt="License: MIT" /></a>
-    <img src="https://img.shields.io/badge/Electron-38-47848f?style=flat-square&amp;logo=electron&amp;logoColor=white" alt="Electron 38" />
-    <img src="https://img.shields.io/badge/React-19-61dafb?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React 19" />
-    <img src="https://img.shields.io/badge/TypeScript-5.9-3178c6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript 5.9" />
-    <img src="https://img.shields.io/badge/UI-liquid%20glass-ff375f?style=flat-square" alt="Liquid glass UI" />
-    <img src="https://img.shields.io/badge/telemetry-none-30d158?style=flat-square" alt="No telemetry" />
+    <img src="https://img.shields.io/badge/platform-Linux-0a84ff?style=flat-square&amp;labelColor=151a24&amp;logo=linux&amp;logoColor=white" alt="Platform: Linux" />
+    <img src="https://img.shields.io/badge/format-AppImage-ff375f?style=flat-square&amp;labelColor=151a24" alt="Format: AppImage" />
+    <img src="https://img.shields.io/github/package-json/v/wickednull/GlassDeck?style=flat-square&amp;label=version&amp;color=0a84ff&amp;labelColor=151a24" alt="Version" />
+    <a href="LICENSE"><img src="https://img.shields.io/github/license/wickednull/GlassDeck?style=flat-square&amp;color=30d158&amp;labelColor=151a24" alt="License: MIT" /></a>
+    <a href="https://github.com/wickednull/GlassDeck/stargazers"><img src="https://img.shields.io/github/stars/wickednull/GlassDeck?style=flat-square&amp;color=e3b341&amp;labelColor=151a24" alt="GitHub stars" /></a>
+    <a href="https://github.com/wickednull/GlassDeck/issues"><img src="https://img.shields.io/github/issues/wickednull/GlassDeck?style=flat-square&amp;color=ff9f0a&amp;labelColor=151a24" alt="Open issues" /></a>
+    <a href="https://github.com/wickednull/GlassDeck/commits/main"><img src="https://img.shields.io/github/last-commit/wickednull/GlassDeck?style=flat-square&amp;color=8b5cf6&amp;labelColor=151a24" alt="Last commit" /></a>
   </p>
 </div>
 
